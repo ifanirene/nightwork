@@ -19,5 +19,6 @@
     "summary": "As the moonship passes, a sleeping landscape begins to glow from within. Inspired by synthetic enhancer design: all 15 designed DNA sequences drove reporter expression in their intended mouse embryonic tissues—heart, limb or central nervous system—with some activity outside the target tissue."
   },
   "schema_version": 1,
-  "title": "The October Crossing · 十月渡"
+  "title": "The October Crossing · 十月渡",
+  "display": false
 }
