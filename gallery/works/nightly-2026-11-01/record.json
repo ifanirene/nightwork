@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-08",
+  "id": "nightly-2026-11-01",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "271126a9c39ae9a99f9ec6f93f1549de8df0a9429baa0bf4af93091750dc1237",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Zhang et al., Cell (2026) — ANKRD11 condensates and transcriptional restraint",
+        "url": "https://doi.org/10.1016/j.cell.2026.07.006"
+      }
+    ],
+    "summary": "A cloud gathers beside a great horn; a single ribbon of sound remains. Inspired by research showing that ANKRD11 condensates restrain highly transcribed genes by sequestering transcription elongation factors."
+  },
+  "schema_version": 1,
+  "title": "A Voice Held Open"
+}
