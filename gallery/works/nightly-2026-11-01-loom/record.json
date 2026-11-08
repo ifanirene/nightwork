@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-08",
+  "id": "nightly-2026-11-01-loom",
+  "image": {
+    "file": "artwork.png",
+    "height": 1024,
+    "sha256": "9a1624540a8924a83d062c4420c06f1a6ae734be32f02a63e93079093c73a7ad",
+    "width": 1536
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Zhang et al., Cell (2026) — ANKRD11 condensates and transcriptional restraint",
+        "url": "https://doi.org/10.1016/j.cell.2026.07.006"
+      }
+    ],
+    "summary": "Golden thread gathers in suspended droplets while a loom continues weaving. Inspired by research showing that ANKRD11 condensates restrain highly transcribed genes by sequestering transcription elongation factors."
+  },
+  "schema_version": 1,
+  "title": "The Loom and the Gathered Thread"
+}
