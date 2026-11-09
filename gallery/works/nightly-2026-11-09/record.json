@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-09",
+  "id": "nightly-2026-11-09",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "473f4a25f211ef17f5808d03ebe96c35ae9631d45d90d47e45e1fd94f43d9dfe",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Science Advances, November 4, 2026 — Common transcriptional changes in the brain during hibernation and Alzheimer’s disease",
+        "url": "https://doi.org/10.1126/sciadv.aeg3486"
+      }
+    ],
+    "summary": "Colour gathers, recedes, and leaves something unresolved. Inspired by a study of hibernating hamsters whose brain cells share some transcriptional changes with Alzheimer’s disease, without the reported amyloid accumulation or neurodegeneration."
+  },
+  "schema_version": 1,
+  "title": "An Unsettled Season · 未定的季节"
+}
