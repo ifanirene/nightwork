@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-10",
+  "id": "nightly-2026-11-10",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "39f0072528d2cd5c8814feb572bfb302df28202fa3ac7532378148dd815e48e6",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Developmental Cell, August 13, 2026 — Systematic differences in protein stability underlie species-specific developmental tempo",
+        "url": "https://doi.org/10.1016/j.devcel.2026.07.012"
+      }
+    ],
+    "summary": "Uneven intervals, a small interruption, and room for an echo. Inspired by research in human and mouse induced presomitic mesoderm: differences in protein stability contribute to differences in developmental tempo."
+  },
+  "schema_version": 1,
+  "title": "A Later Echo · 迟到的回声"
+}
