@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-11",
+  "id": "nightly-2026-11-11",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "21bf43b5f7ce215553d8b4e9f460c6863a6446885e2252319d9a4ce87a19c3a9",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Nature Physics, August 24, 2026 — Decaying and expanding Erk gradients process memory of skeletal size during zebrafish fin regeneration",
+        "url": "https://doi.org/10.1038/s41567-026-03426-w"
+      }
+    ],
+    "summary": "A dark fold, a lifted edge, and a shape left open. Inspired by research on zebrafish fin regeneration, in which Erk signalling gradients scale with missing tissue and help explain how regenerating structures recover their size."
+  },
+  "schema_version": 1,
+  "title": "The Shape Left Open · 未合的形"
+}
