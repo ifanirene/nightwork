@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-12",
+  "id": "nightly-2026-11-12",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "1350be257564ebad49ca498fda6a06c2a4796702b4d27ba5d26d3b62bac7207c",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Ochiai & Goshima — gamete differentiation in Bryopsis (2026)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42982036/"
+      }
+    ],
+    "summary": "Bright clay forms seem caught between gestures and identities. In Bryopsis, reducing the female-specific regulator BrRWP1 shifted gamete size and several other traits toward male-like characteristics, yet did not fully masculinize the gametes and caused fertilization defects. Inspired by a primary study published online in Current Biology on 4 November 2026."
+  },
+  "schema_version": 1,
+  "title": "A Small Riot · 小小的骚动"
+}
