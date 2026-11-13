@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-13",
+  "id": "nightly-2026-11-13",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "909642411e8082d12ceafc39c9a3634d8d947afb7f7e6a1a6dc7d3f14139e676",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Lazzari et al. — SLC2A1 variants and GLUT1 trafficking (2026)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42928124/"
+      }
+    ],
+    "summary": "A white horse rests in a station waiting room while a traveller watches the empty platform. In a human brain endothelial cell model, selected SLC2A1 missense variants changed the intracellular distribution of tagged GLUT1: some accumulated in lysosome-related compartments, while another favored Golgi and early endosomes. The study highlights intracellular location as a complement to transport measurements. Published in Molecular Medicine, 29 July 2026."
+  },
+  "schema_version": 1,
+  "title": "The Passenger Who Stayed · 留下的旅客"
+}
