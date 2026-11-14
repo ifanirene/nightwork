@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-14",
+  "id": "nightly-2026-11-14",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "d4f5f54cfbe3bb0ee4541fcc744747af15b014fd5b1dc317eb0a8ea243e3a9c0",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Zhou et al. — selective blood-to-brain protein transport, Cell (2026)",
+        "url": "https://doi.org/10.1016/j.cell.2026.10.039"
+      }
+    ],
+    "summary": "In falling snow, a travelling seller offers a mandarin to a woman above the stair. Inspired by Zhou and colleagues’ Cell study, published online on 11 November 2026: in mice, diverse plasma proteins cross the blood-brain barrier and reach distinct brain cell types. Early-stage 5xFAD mice show selective changes, including reduced APOA1 and increased SERPINA1 uptake, rather than a uniform change in transport."
+  },
+  "schema_version": 1,
+  "title": "A Handful of Summer · 一捧夏天"
+}
