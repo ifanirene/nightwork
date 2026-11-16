@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-16",
+  "id": "nightly-2026-11-16",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "61ef6d1ed093d4cd305633a097fb9fc82982001469f5c34d7b0a8fd00cd036c5",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Amir-Ugokwe et al., Development (2026)",
+        "url": "https://doi.org/10.1242/dev.205490"
+      }
+    ],
+    "summary": "Two dancers catch each other’s eye across a sunlit rehearsal floor. Amir-Ugokwe and colleagues followed a change of identity in a human stem-cell model: under the conditions they tested, venous endothelial cells acquired an arterial gene-expression profile within 48 hours."
+  },
+  "schema_version": 1,
+  "title": "The Second Day of Rehearsal · 排练的第二天"
+}
