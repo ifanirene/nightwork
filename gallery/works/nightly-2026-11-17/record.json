@@ -1,0 +1,23 @@
+{
+  "ai_generated": true,
+  "date": "2026-11-17",
+  "id": "nightly-2026-11-17",
+  "image": {
+    "file": "artwork.png",
+    "height": 941,
+    "sha256": "2d2b6133702e2e5b8e9144586da71b43ab677d5eb5aee7635d15474678a888be",
+    "width": 1672
+  },
+  "kind": "nightly",
+  "research": {
+    "sources": [
+      {
+        "label": "Modality-specific neurovascular coupling via layer-segregated arteriole networks · Science (2026)",
+        "url": "https://doi.org/10.1126/science.aeb5077"
+      }
+    ],
+    "summary": "Rain stipples the surface overhead. Below, a ribbon of kelp curls around a pebble. In mice, different sensory inputs recruit different types of cortical arterioles. Which vessels dilate, and how they connect, helps determine the pattern of blood flow across cortical layers."
+  },
+  "schema_version": 1,
+  "title": "Listening to Rain in a Tide Pool · 潮池听雨"
+}
